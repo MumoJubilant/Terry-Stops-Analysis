@@ -51,12 +51,12 @@ The accuracy of the model shows that it can predict the data 91% correctly after
 
 * Finally use GridSearchCV to find the best parameters
 
-##Recommendation and Conclusions
-###Recommendation.
+## Recommendation and Conclusions
+### Recommendation.
 Check on the male gender of the black American and White races Collect information on the reasons for Arrest to have better understanding of arrests Calculating over the population to get a sense of how the different parameters are affected
 The unknown variables need to be reassessed.
 Recommend using SMOTE to deal with the class imbalance 
 
-###Conclusions
+### Conclusions
 The different information affecting the arrest during the terry stops have made the models come together in harmony. Logistic regression and decision tree classifier were used to make the model predict the data which showed a 90% accuracy. There was some imbalance in the data due to the difference between the two classes in the target. 
 Most of the classes were biased, as leaning to one group of people i.e Male, White and Black or African American
