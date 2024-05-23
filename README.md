@@ -44,12 +44,16 @@ F1 score = 59%
 The accuracy of the model shows that it can predict the data 91% correctly after using cross validation for overfitting the model with 99%
 
 * Training the model with Random Forest
-
+Accuracy = 91%
+F1 score = 46%
 
 * Training and improving the model with XG Boost
-
+Accuracy = 91%
+F1 score = 48%
 
 * Finally use GridSearchCV to find the best parameters
+Accuracy = 92%
+F1 score = 58%
 
 ## Recommendation and Conclusions
 ### Recommendation.
